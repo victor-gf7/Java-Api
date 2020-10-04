@@ -6,7 +6,7 @@ The API calculates interest and fines on registered accounts with late payment, 
  
  ![](../header.png)
  
- ##Tools and versions
+ ## Tools and versions
  * IntelliJ 2020.1
  * Java 11
  * Spring 2.3.4
