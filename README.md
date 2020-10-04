@@ -31,8 +31,8 @@ The API calculates interest and fines on registered accounts with late payment, 
 
  ## Contribution
  
- 1. Faça o fork do projeto (<https://github.com/victor-gf7/Java-Api/fork>)
- 2. Crie uma branch para sua modificação (`git checkout -b feature/fooBar`)
- 3. Faça o commit (`git commit -am 'Add some fooBar'`)
+ 1. Fork the project (<https://github.com/victor-gf7/Java-Api/fork>)
+ 2. Create a branch for your modification (`git checkout -b feature/fooBar`)
+ 3. commit (`git commit -am 'Add some fooBar'`)
  4. Push (`git push origin feature/fooBar`)
- 5. Crie um novo Pull Request
+ 5. Create a new Pull Request
