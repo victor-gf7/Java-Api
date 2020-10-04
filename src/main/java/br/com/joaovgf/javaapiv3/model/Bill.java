@@ -1,8 +1,5 @@
 package br.com.joaovgf.javaapiv3.model;
 
-
-import lombok.NonNull;
-
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
 import java.time.LocalDate;
